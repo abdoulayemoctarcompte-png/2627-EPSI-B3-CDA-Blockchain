@@ -16,8 +16,8 @@ Projet final du module **Développement Blockchain** (BLOE562 · Concepteur dév
 
 | Élément | Valeur |
 | --- | --- |
-| Membre 1 | [Nom Prénom] |
-| Membre 2 (binôme) | [Nom Prénom ou « aucun »] |
+| Membre 1 | ABDOULAYE Moctar |
+| Membre 2 (binôme) | Sanogo Mohamed Ismael |
 | Réseau de déploiement | [Local Hardhat ou Sepolia] |
 | Adresse du contrat (si Sepolia) | [0x...] |
 | Exigences « Pourrait » réalisées | [EF-09, EF-14, EF-15 ou aucune] |
