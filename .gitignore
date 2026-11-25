@@ -1,0 +1,30 @@
+# Dépendances
+node_modules/
+
+# Compilation
+/dist
+/artifacts
+/cache
+/types
+
+# Déploiements Ignition sur le réseau local (recréés à chaque redémarrage du nœud)
+/ignition/deployments/chain-31337
+
+# Secrets : ne jamais publier de clé privée ni de phrase de récupération
+.env
+.env.*
+!.env.example
+
+# Couverture de tests
+/coverage
+
+# Build du front
+front/dist/
+front/node_modules/
+
+# Systèmes et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
